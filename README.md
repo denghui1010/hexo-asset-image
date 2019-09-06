@@ -1,3 +1,7 @@
+# npm仓库中hexo-asset-image不是最新的,fork一份单独发布
+npm install hexo-asset-image-fork --save
+
+
 # hexo-asset-image
 
 
